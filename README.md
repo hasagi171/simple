@@ -30,7 +30,7 @@ pkg upgrade -y
 pkg install python git clang
 python -m pip install --upgrade pip
 cd $HOME
-git clone https://github.com/ReinXou
+git clone https://github.com/ReinXou/simple
 ```
 
 ## How To Run Tools For First Time
@@ -42,7 +42,14 @@ python run.py
 ```
 
 ## Disclaimer
-Kami tidak bertanggung jawab atas segala kerusakan yang disebabkan oleh alat Ini.
+English Language
+```sh
+I am not responsible if these tools are misused or used to make damage. thank you
+```
+Bahasa Indonesia
+```sh
+Saya tidak bertanggung jawab apabila tools disalahgunakan atau digunakan untuk membuat kerusakan. terimakasih
+```
 
 ## Ada pertanyaan?
 Kebingungan cara pasang Tools nya atau mungkin mengalami masalah? ðŸ¤”
