@@ -1,4 +1,4 @@
-<h1 align="center"><b>Multiple Tools for Facebook (MTF)</b></h1>
+<h1 align="center"><b>Simple Tools for Facebook</b></h1>
 
 <div align="center">
   <a href="https://github.com/ReinXou">
@@ -6,16 +6,6 @@
   </a>
   <a href="https://github.com/ReinXou">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ReinXou/simple.svg"/>
-  </a>
-   <a href="https://github.com/ReinXou">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/ReinXou/simple.svg"/>
-  </a>
-  <a href="https://github.com/ReinXou">
-    <img alt="Starts" src="https://img.shields.io/github/stars/ReinXou/simple.svg"/>
-  </a>
-  <a href="https://github.com/ReinXou">
-    <img alt="Forks" src="https://img.shields.io/github/forks/ReinXou/simple.svg"/>
-  </a>
 </div>
 <br>
 
@@ -41,7 +31,7 @@ cythonize -i simple.c
 python run.py
 ```
 
-## Disclaimer
+## Disclaimer or Warning
 English Language
 ```sh
 I am not responsible if these tools are misused or used to make damage. thank you
