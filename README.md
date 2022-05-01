@@ -10,9 +10,8 @@
 </div>
 <br>
 
-Jika kamu menggunakan Termux Android silahkan download Termux dari link dibawah ini jangan dari <b>PlayStore</b>.
-
-Link download Termux: [https://f-droid.org/repo/com.termux_118.apk](https://f-droid.org/repo/com.termux_118.apk)
+if you don't have the termux application, please download it via the link below. it is not recommended to use termux from playstore 
+[https://f-droid.org/repo/com.termux_118.apk](https://f-droid.org/repo/com.termux_118.apk)
 
 ## How To Install Tools
 ```sh
@@ -42,6 +41,14 @@ Bahasa Indonesia
 Saya tidak bertanggung jawab apabila tools disalahgunakan atau digunakan untuk membuat kerusakan. terimakasih
 ```
 
-## Ada pertanyaan?
-Kebingungan cara pasang Tools nya atau mungkin mengalami masalah? ðŸ¤”
-Silahkan tanya mengenai masalahmu ke Pengembang!
+## Buy Apikey 
+English Language
+```sh
+please chat to my whatsapp or via the link in the tools
+whatsapp : +62895384982854
+```
+Bahasa Indonesia
+```sh
+silahkan chat ke whatsapp saya atau bisa melalui link didalam tools
+whatsapp : +62895384982854
+```
