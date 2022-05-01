@@ -6,6 +6,7 @@
   </a>
   <a href="https://github.com/ReinXou">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ReinXou/simple.svg"/>
+  </a>
 </div>
 <br>
 
