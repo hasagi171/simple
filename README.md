@@ -10,6 +10,7 @@
 </div>
 <br>
 
+## How To Download Termux
 if you don't have the termux application, please download it via the link below. it is not recommended to use termux from playstore 
 [https://f-droid.org/repo/com.termux_118.apk](https://f-droid.org/repo/com.termux_118.apk)
 
