@@ -11,8 +11,7 @@
 <br>
 
 ## How To Download Termux
-if you don't have the termux application, please download it via the link below. it is not recommended to use termux from playstore 
-[https://f-droid.org/repo/com.termux_118.apk](https://f-droid.org/repo/com.termux_118.apk)
+if you don't have the termux application, please download it via the link. it is not recommended to use termux from playstore . for the link please click [in here](https://f-droid.org/repo/com.termux_118.apk)
 
 ## How To Install Tools
 ```sh
@@ -53,3 +52,6 @@ Bahasa Indonesia
 silahkan chat ke whatsapp saya atau bisa melalui link didalam tools
 whatsapp : +62895384982854
 ```
+## Results When Crack
+![template_s](https://github.com/ReinXou/simple/blob/main/results/Screenshot_2022-04-30-01-16-17-06_84d3000e3f4017145260f7618db1d683.jpg)
+
