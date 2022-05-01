@@ -23,36 +23,23 @@ Jika kamu menggunakan Termux Android silahkan download Termux dari link dibawah 
 
 Link download Termux: [https://f-droid.org/repo/com.termux_118.apk](https://f-droid.org/repo/com.termux_118.apk)
 
-## Pasang paket dan clone repository
+## How To Install Tools
 ```sh
 pkg update -y
 pkg upgrade -y
 pkg install python git clang
 python -m pip install --upgrade pip
 cd $HOME
-git clone https://github.com/lumine-id/mtf
+git clone https://github.com/ReinXou
 ```
 
-## Masuk ke folder MTF
+## How To Run Tools For First Time
 ```sh
-cd $HOME/mtf
-```
-
-## Setup
-Jika kamu baru pertama pasang MTF silahkan jalankan perintah dibawah ini
-```sh
+cd simple
 python -m pip install -r requirements.txt
-python setup.py
+cythonize -i simple.c
+python run.py
 ```
-Tunggu sampe proses compile selesai, mungkin memerlukan waktu sedikit lama.
-
-## Akhirnya
-Sekarang tinggal jalanin perintah ini untuk menjalankan MTF
-```sh
-cd $HOME/mtf
-./run
-```
-Dan selamat menggunakan ðŸ¤—
 
 ## Disclaimer
 Kami tidak bertanggung jawab atas segala kerusakan yang disebabkan oleh alat Ini.
